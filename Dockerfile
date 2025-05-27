@@ -17,7 +17,7 @@ RUN pip install -r requirements.txt
 COPY . .
 
 # Collect static files
-RUN python app/manage.py collectstatic --noinput
+RUN python manage.py collectstatic --noinput
 
 # Gunicorn
-CMD ["gunicorn", "myproject.wsgi:application", "--bind", "0.0.0.0:8000"]
+CMD ["gunicorn", "django_rest.wsgi:application", "--bind", "0.0.0.0:8000"]
