@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3b45643-aeb5-4c7b-9118-02c7b51bc751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +80,8 @@
       <workItem from="1748314761919" duration="2134000" />
       <workItem from="1748316909707" duration="1911000" />
       <workItem from="1748318833795" duration="4000" />
-      <workItem from="1748318847073" duration="2724000" />
+      <workItem from="1748318847073" duration="2871000" />
+      <workItem from="1748322669258" duration="144000" />
     </task>
     <servers />
   </component>
@@ -99,22 +93,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1746878129272" />
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1748321598805">
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1748321732897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748321598805" />
-    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1748321598805">
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1748321732897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748321598805" />
-    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1748321598805">
+    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1748321732897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748321598805" />
-    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1748321598805">
+    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1748321732897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748321598805" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1748316906968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
