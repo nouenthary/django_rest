@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b45643-aeb5-4c7b-9118-02c7b51bc751" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2wu4HcvpqvehEqmZiM9S2msSKmV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/product" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\django_rest\product" />
+      <recent name="C:\xampp\htdocs\django_rest\category" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="django_rest" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_rest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_rest.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b45643-aeb5-4c7b-9118-02c7b51bc751" name="Default Changelist" comment="" />
+      <created>1746878037885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746878037885</updated>
+      <workItem from="1746878039601" duration="93000" />
+      <workItem from="1748314070040" duration="335000" />
+      <workItem from="1748314416343" duration="329000" />
+      <workItem from="1748314761919" duration="2134000" />
+      <workItem from="1748316909707" duration="1911000" />
+      <workItem from="1748318833795" duration="4000" />
+      <workItem from="1748318847073" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1746878129272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1746878129272" />
+    <state width="1458" height="186" key="GridCell.Tab.0.bottom" timestamp="1748318830661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748318830661" />
+    <state width="1458" height="186" key="GridCell.Tab.0.center" timestamp="1748318830661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="186" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748318830661" />
+    <state width="1458" height="186" key="GridCell.Tab.0.left" timestamp="1748318830661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="186" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748318830661" />
+    <state width="1458" height="186" key="GridCell.Tab.0.right" timestamp="1748318830661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1458" height="186" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748318830661" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1748316906968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748316906968" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1748316906968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748316906968" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1748316906967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748316906967" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1748316906968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748316906968" />
+  </component>
+</project>
