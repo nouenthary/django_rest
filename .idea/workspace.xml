@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3b45643-aeb5-4c7b-9118-02c7b51bc751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose-swam.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +85,10 @@
       <workItem from="1748318833795" duration="4000" />
       <workItem from="1748318847073" duration="2871000" />
       <workItem from="1748322669258" duration="144000" />
+      <workItem from="1748332361919" duration="2999000" />
+      <workItem from="1748336809491" duration="375000" />
+      <workItem from="1748431455276" duration="2000" />
+      <workItem from="1748434920969" duration="241000" />
     </task>
     <servers />
   </component>
@@ -93,22 +100,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1746878129272" />
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom" timestamp="1748321732897">
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1748334169300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
-    <state width="1877" height="255" key="GridCell.Tab.0.center" timestamp="1748321732897">
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1748334169300" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1748334657635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
-    <state width="1877" height="255" key="GridCell.Tab.0.left" timestamp="1748321732897">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1748334657635" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1748334657635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
-    <state width="1877" height="255" key="GridCell.Tab.0.right" timestamp="1748321732897">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1748334657635" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1748334657635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="255" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748321732897" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1748334657635" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1748334657635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1748334657635" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1748316906968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
